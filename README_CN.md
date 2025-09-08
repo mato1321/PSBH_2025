@@ -1,5 +1,11 @@
 # Operating Room Crisis
 
+## 🎥 遊戲影片
+[**遊戲影片**](https://drive.google.com/file/d/1YpUj62jnfQeq_7ScOuxtmoB6o51pRx0w/view?usp=drive_link)  
+包含遊戲怎麼進行以及突發狀況的完整示範。  
+
+---
+
 ## 專案簡介
 **Operating Room Crisis** 是一款專為醫學生設計的創新桌上遊戲。  
 其核心目標在於強化學生於手術室中的 **無菌技術**、**微創手術技能**，以及 **臨床決策能力**。  
@@ -50,11 +56,10 @@
 ---
 
 ## 相關文件
--  **專案報告書**：包含詳細分析、設計過程與研究基礎  
--  **簡報腳本**：專案發表時使用的講稿  
--  **專案投影片**：展示專案內容與遊戲流程的視覺簡報
--  **專案海報**：包含為甚麼想出這個遊戲?可以幫助到誰?    
--  **遊戲影片**：包含遊戲怎麼進行以及突發狀況 
+-  [**專案報告書**](https://github.com/mato1321/PSBH_2025/blob/main/Paper.pdf)：包含詳細分析、設計過程與研究基礎  
+-  [**簡報腳本**](https://github.com/mato1321/PSBH_2025/blob/main/Script.pdf)：專案發表時使用的講稿  
+-  [**專案投影片**](https://github.com/mato1321/PSBH_2025/blob/main/Presentation.pdf)：展示專案內容與遊戲流程的視覺簡報  
+-  [**專案海報**](https://github.com/mato1321/PSBH_2025/blob/main/Poster.jpg)：包含為甚麼想出這個遊戲?可以幫助到誰?    
 
 ---
 
