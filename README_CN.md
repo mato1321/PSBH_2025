@@ -1,6 +1,6 @@
 # Operating Room Crisis
 
-## 🎥 遊戲影片
+## 遊戲影片
 [**遊戲影片**](https://drive.google.com/file/d/1YpUj62jnfQeq_7ScOuxtmoB6o51pRx0w/view?usp=drive_link)  
 包含遊戲怎麼進行以及突發狀況的完整示範。  
 
@@ -68,3 +68,7 @@
 它結合了 **醫學知識、實作訓練與團隊合作**，協助醫學生在進入手術室前，先行累積寶貴的臨床經驗與思維。  
 
 ---
+
+## 雲端資料夾
+所有專案相關檔案（報告書、腳本、投影片、海報、影片等）皆可在以下雲端資料夾中取得：  
+[**Google 雲端專案資料夾**](https://drive.google.com/drive/folders/1bDoEiy6CJEgtLN47BUxvAdJRLkDiw33T?usp=drive_link)  
